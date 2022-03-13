@@ -1,1 +1,10 @@
-background-color: #000000;
+body {
+        color: white;
+        background: black;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
